@@ -4,6 +4,8 @@
 
 Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [Gitter](https://gitter.im/TheAlgorithms).
 
+## Documenttation
+Please add some meaningful description that shows what is the purpose of the algorithm, what input is required and what is the expected output.  This will help beginners understanding the logic better way. 
 ## Contributing
 
 ### Contributor
